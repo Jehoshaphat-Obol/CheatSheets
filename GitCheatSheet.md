@@ -49,6 +49,12 @@ git add [file|path to file]
 git add .
 ```
 
+**Remove files from the staging area**
+
+```bash
+git rm --cached [file|path to file]
+```
+
 ## Committing to a Repository
 
 **Make a commit**.
